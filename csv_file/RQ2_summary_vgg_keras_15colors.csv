@@ -1,0 +1,2 @@
+model_name,acc,MR1,MR1_acc,MR1_correct,MR1_incorrect,non_MR1,non_MR1_acc,non_MR1_correct,non_MR1_incorrect,MR2,MR2_acc,MR2_correct,MR2_incorrect,non_MR2,non_MR2_acc,non_MR2_correct,non_MR2_incorrect,MR1&2,MR1&2_acc,MR1&2_correct,MR1&2_incorrect,non_MR1&2,non_MR1&2_acc,non_MR1&2_correct,non_MR1&2_incorrect,acc_num
+vgg16,71.268%,1192,21.728%,259,933,48808,72.478%,35375,13433,18104,29.795%,5394,12710,31896,94.808%,30240,1656,1020,22.353%,228,792,48980,72.287%,35406,13574,35634
