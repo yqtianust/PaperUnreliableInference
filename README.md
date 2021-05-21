@@ -1,8 +1,8 @@
 # Supplementary Materials of Paper:  To What Extent Do DNN-based Image Classification Models Make Unreliable Inferences? #
 
-This page hosts the Supplementary Materials of Paper:  **  To What Extent Do DNN-based Image Classification Models Make Unreliable Inferences?**
+This page hosts the Supplementary Materials of Paper:  **To What Extent Do DNN-based Image Classification Models Make Unreliable Inferences?**
 
-The paper is accepted by the Journal: Empirical Software Engineering
+The paper is accepted by the Journal *Empirical Software Engineering* in May 2021
 
 Feel free to contact the author if you have any questions. 
 
